@@ -80,6 +80,43 @@ footer {
 	padding-bottom: 2px;
 	display:block;
 	margin:0 auto;
-
 }
+
+.buttons{
+	list-style-type:none;
+	display:inline-block;
+	background-color:orange;
+	border:1px solid black;
+}
+	
+#blue{
+	background-color:rgb(53,92,162);
+	display:block;
+	border:1px solid black;
+	width:25%;
+}
+#lblue{
+	background-color:rgb(138,167,220);
+	display:block;
+	border:1px solid black;
+	width:25%;
+}
+
+
+a:link	{
+	color: #dddddd;
+	text-decoration:none;
+}
+a:visited {
+	color:#d93600;
+}
+a:hover {
+	color: #999999;
+	text-decoration: underline;
+}
+a:active {
+	color: #d93600;
+	text-decoration:underline;
+}
+	
 
