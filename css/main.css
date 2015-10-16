@@ -106,13 +106,16 @@ a:link	{
 	color: #dddddd;
 	text-decoration:none;
 }
+
 a:visited {
 	color:#d93600;
 }
+
 a:hover {
 	color: #999999;
 	text-decoration: underline;
 }
+
 a:active {
 	color: #d93600;
 	text-decoration:underline;
