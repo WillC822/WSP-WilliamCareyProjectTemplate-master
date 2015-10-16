@@ -1,4 +1,57 @@
 /* Component Stylesheet 
 ============================================================
 ============================================================*/
+body {
+	width: 100%; 
+	margin: 0 auto;
+	font: 16px / 1.5 "Open Sans", sans-serif;
+	color: #666;
+}
 
+h2{
+	color:#ffffff;
+	font-size:60px;
+}
+h3{
+	text-align:center;
+	font-weight:bold;
+	text-decoration: underline;
+}
+p{
+	text-align:center;
+}
+
+#featured{
+	width:1130px;
+	height:600px;
+	margin:20px 0 30px 250px;
+	display:inline-block;
+	
+}
+
+.featured-col{
+	width:350px;
+	float:left;
+	display:inline-block;
+	overflow:auto;
+	border-radius: 15px 50px;
+ 	border:1px solid black;
+ 	margin:0px 10px 0px 10px;
+
+}
+
+#featured h2{
+	text-align:center;
+	font-size:34px;
+	color:#868686;
+}
+
+.read-more{
+	color:#ffffff;
+	background-color:#00B23A;
+	padding: 10px 30px;
+	margin:0 auto;
+	width:150px;
+	display:block;
+	text-align:center;
+}
