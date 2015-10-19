@@ -8,13 +8,10 @@ h4{
 	font-size: 2em;
 	margin-bottom: 10px;
 	font-weight:700;
-	padding-right: 10px;
 }
 footer{
 	background-color:#999;
-	height:250px;
-	display:block;
-	
+
 }
 
 .wrapper{
@@ -26,14 +23,11 @@ footer{
 	background-color: #222;
 	text-align: center;
 	color:white;
-	height:40px;
 }
 
 footer nav{
 	text-align: center;
-	margin-bottom: 20px;
-	float:left;
-
+	margin-bottom: 50px;
 }
 
 footer nav li{
@@ -43,5 +37,4 @@ footer nav li{
 footer img{
 	display:block;
 	max-width:50%;
-	float:right;
 }

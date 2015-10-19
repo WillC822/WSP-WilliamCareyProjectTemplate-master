@@ -44,8 +44,8 @@ p{
 @media only screen and (min-width: 320px) {
 .city {
     border: 1px solid black;
-    display:block;
-    max-width:50%;
+    display:inline-block;
+    max-width:25%;
     max-height: 30%;
     overflow:auto;
 } 
