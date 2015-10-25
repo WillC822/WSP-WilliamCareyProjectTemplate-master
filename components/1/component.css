@@ -93,3 +93,8 @@ body {
 .sub-menu li a:hover, .sub-menu .current-item a {
     background:#B8BEDB;
 }
+
+p{
+    display:block;
+    width:100%;
+}
