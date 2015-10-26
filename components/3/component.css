@@ -9,10 +9,9 @@ body {
 }
 
 h2{
-	color:#ffffff;
-	font-size:60px;
-	margin:0px auto;
+	text-indent: 37%;
 }
+
 h3{
 	text-align:center;
 	font-weight:bold;
@@ -46,7 +45,6 @@ p{
 }
 
 #featured h2{
-	text-align:center;
 	font-size:34px;
 	color:#868686;
 }
@@ -60,3 +58,4 @@ p{
 	display:block;
 	text-align:center;
 }
+
