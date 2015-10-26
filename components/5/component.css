@@ -47,10 +47,8 @@ footer nav li{
 }
 
 footer img{
-	max-height: 20%;
-	max-width:35%;
+	width:40%;
 	float:right;
-	overflow:hidden;
-	border:1px solid red;
+	border:1px solid black;
 	display:inline-block;
 }
