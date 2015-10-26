@@ -17,7 +17,7 @@ h4{
 }
 footer{
 	background-color:#999;
-	height:250px;
+	height:350px;
 	display:block;
 	
 }
@@ -47,8 +47,10 @@ footer nav li{
 }
 
 footer img{
-	max-height: 30%;
+	max-height: 20%;
 	max-width:35%;
 	float:right;
+	overflow:hidden;
 	border:1px solid red;
+	display:inline-block;
 }
